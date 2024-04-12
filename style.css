@@ -1,0 +1,33 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background: linear-gradient(45deg, red, pink);
+}
+.header_div{
+    background: white;
+    color: darkred;
+}
+.header_div p{
+    font-family: sans-serif;
+    color: grey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copyRightFooter{
+    position: fixed;
+    color: rgb(189, 189, 189);
+    bottom: 0;
+    width: 100%;
+    font-size: 20px;
+    background-color: rgb(150, 150, 150);
+    line-height: 2;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(91, 91, 91);
+}
